@@ -1,5 +1,14 @@
+# Gradle
 .gradle
 build/
 
+# Intellij
+.idea/
+*.iml
+*.iws
+
 # Ignore Gradle GUI config
 gradle-app.setting
+
+# Mac
+.DS_Store
